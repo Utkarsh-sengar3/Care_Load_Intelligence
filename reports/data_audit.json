@@ -1,0 +1,43 @@
+{
+  "source_rows": 1170,
+  "columns": 6,
+  "column_names": [
+    "Date",
+    "Children apprehended and placed in CBP custody*",
+    "Children in CBP custody",
+    "Children transferred out of CBP custody",
+    "Children in HHS Care",
+    "Children discharged from HHS Care"
+  ],
+  "completely_empty_rows": 450,
+  "missing_values_by_column": {
+    "Date": 450,
+    "Children apprehended and placed in CBP custody*": 450,
+    "Children in CBP custody": 450,
+    "Children transferred out of CBP custody": 450,
+    "Children in HHS Care": 450,
+    "Children discharged from HHS Care": 450
+  },
+  "duplicate_dates": 0,
+  "invalid_date_rows": 0,
+  "first_date": "2023-01-12",
+  "last_date": "2025-12-21",
+  "observed_unique_dates": 720,
+  "calendar_days_inclusive": 1075,
+  "missing_calendar_dates": 355,
+  "date_gap_days_summary": {
+    "minimum_gap_days": 1,
+    "median_gap_days": 1.0,
+    "maximum_gap_days": 10,
+    "gap_counts": {
+      "1": 558,
+      "2": 10,
+      "3": 122,
+      "4": 23,
+      "5": 3,
+      "6": 1,
+      "7": 1,
+      "10": 1
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "analysis_type": "Illustrative capacity scenario",
+    "target": "Children in HHS Care",
+    "capacity_threshold": 5000,
+    "warning_utilization_percent": 80.0,
+    "high_risk_utilization_percent": 100.0,
+    "first_observation": "2023-01-12",
+    "last_observation": "2025-12-21",
+    "observations": 720,
+    "mean_care_load": 6061.27,
+    "median_care_load": 6406.5,
+    "minimum_care_load": 1972,
+    "maximum_care_load": 11516,
+    "mean_capacity_utilization_percent": 121.23,
+    "maximum_capacity_utilization_percent": 230.32,
+    "observations_above_capacity": 490,
+    "observations_in_medium_risk": 12,
+    "observations_in_high_risk": 490,
+    "capacity_threshold_is_verified": false,
+    "warning": "The capacity threshold is illustrative. Results do not establish actual HHS capacity or actual operational risk."
+}

@@ -1,0 +1,15 @@
+{
+    "model": "Holt_Damped",
+    "last_observed_date": "2025-12-21",
+    "historical_observations": 720,
+    "forecast_horizon_observed_records": 7,
+    "latest_observed_care_load": 2484,
+    "capacity_threshold": 5000,
+    "capacity_verified": false,
+    "mean_forecast": 2493.76,
+    "maximum_forecast": 2499.5,
+    "maximum_estimated_additional_places": 0,
+    "uncertainty_available": true,
+    "uncertainty_is_guaranteed": false,
+    "forecast_horizon_unit": "Future observed records, not calendar days"
+}

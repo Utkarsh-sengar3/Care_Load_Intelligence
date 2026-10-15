@@ -1,0 +1,8 @@
+Forecast_Step,Forecast_Care_Load,Configured_Capacity,Capacity_Utilization_Percent,Warning_Threshold,Estimated_Additional_Places,Scenario_Risk,Last_Observed_Date,Selected_Model
+1,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+2,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+3,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+4,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+5,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+6,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive
+7,2484,5000,49.68,4000.0,0,Low,2025-12-21,Naive

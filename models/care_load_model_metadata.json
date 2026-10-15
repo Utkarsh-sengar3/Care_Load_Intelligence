@@ -1,0 +1,17 @@
+{
+    "target": "Children in HHS Care",
+    "selected_candidate": "Holt_Damped",
+    "benchmark_model": "Naive",
+    "training_observations": 720,
+    "first_observation_date": "2023-01-12",
+    "last_observation_date": "2025-12-21",
+    "latest_observed_value": 2484.0,
+    "forecast_frequency": "Observed-record sequence; not a validated calendar-day forecast",
+    "walk_forward_mae": 78.92,
+    "walk_forward_rmse": 160.868,
+    "walk_forward_mape_percent": 1.965,
+    "final_holdout_mae": 211.907,
+    "final_holdout_rmse": 260.117,
+    "final_holdout_mape_percent": 9.994,
+    "warning": "Holt Damped performed best in the seven-record walk-forward comparison but did not outperform Naive in the 144-record single-origin holdout. It is a deployment candidate, not a universally validated best model."
+}

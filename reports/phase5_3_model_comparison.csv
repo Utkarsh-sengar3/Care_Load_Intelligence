@@ -1,0 +1,4 @@
+Model,Historical_Walk_Forward_MAE,Historical_Walk_Forward_RMSE,Historical_Walk_Forward_MAPE_Percent,Historical_Forecast_Count
+Naive,102.613,197.623,2.802,315
+ARIMA_1_1_1,99.023,191.671,2.699,315
+Holt_Damped,78.92,160.868,1.965,315

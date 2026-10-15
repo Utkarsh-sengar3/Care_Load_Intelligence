@@ -1,0 +1,10 @@
+Care Load Intelligence updated website
+- app.py: updated Streamlit application
+- src/: existing forecasting engine and project code
+- data/: existing project data
+- reports/: existing model evaluation and forecast artifacts
+- models/: existing model assets, if present
+- requirements.txt: Python dependencies with openpyxl for Excel report export
+- IMPLEMENTATION_GUIDE.md: setup, run, feature and methodology notes
+
+The virtual environment (.venv) is intentionally excluded; dependencies should be installed on the target machine.

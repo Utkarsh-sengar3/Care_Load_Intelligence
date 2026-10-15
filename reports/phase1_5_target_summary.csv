@@ -1,0 +1,6 @@
+Role,Target,Observed_Records,Mean,Median,Minimum,Maximum,Standard_Deviation
+primary,Children in HHS Care,720,6061.28,6406.5,1972.0,11516.0,2833.07
+discharge,Children discharged from HHS Care,720,173.41,181.0,0.0,505.0,125.7
+transfer,Children transferred out of CBP custody,720,128.67,157.0,0.0,440.0,97.32
+cbp_care_load,Children in CBP custody,720,171.49,193.0,7.0,531.0,126.35
+intake,Children apprehended and placed in CBP custody*,720,93.52,99.0,0.0,333.0,72.65

@@ -1,0 +1,16 @@
+{
+    "analysis": "Forecast-based capacity scenario",
+    "last_observed_date": "2025-12-21",
+    "historical_observations": 720,
+    "selected_model": "Naive",
+    "forecast_horizon_observed_records": 7,
+    "configured_capacity": 5000,
+    "warning_utilization_percent": 80.0,
+    "forecast_minimum": 2484,
+    "forecast_maximum": 2484,
+    "forecast_mean": 2484.0,
+    "maximum_estimated_additional_places": 0,
+    "capacity_verified": false,
+    "forecast_uncertainty_interval_included": false,
+    "warning": "These are point forecasts for future observed records, not guaranteed calendar-day forecasts. Capacity is illustrative, and the table does not include calibrated forecast uncertainty intervals."
+}

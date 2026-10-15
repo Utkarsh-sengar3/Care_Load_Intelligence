@@ -1,0 +1,27 @@
+{
+    "analysis": "Forecast uncertainty and demand stress testing",
+    "last_observed_date": "2025-12-21",
+    "historical_observations": 720,
+    "forecast_horizon_observed_records": 7,
+    "models_forecasted": [
+        "Naive",
+        "ARIMA_1_1_1",
+        "Holt_Damped"
+    ],
+    "capacity_threshold": 5000,
+    "capacity_verified": false,
+    "stress_scenario_multipliers": {
+        "Baseline": 1.0,
+        "Elevated_Demand": 1.1,
+        "High_Demand_Stress": 1.25
+    },
+    "uncertainty_method": "Empirical quantiles of absolute walk-forward forecast errors by horizon",
+    "intervals_are_guaranteed": false,
+    "limitations": [
+        "Observation dates are irregular.",
+        "Forecast steps represent future observed records, not calendar days.",
+        "Capacity threshold is illustrative, not verified official capacity.",
+        "Stress scenario multipliers are hypothetical, not estimated probabilities.",
+        "Historical error quantiles are not guaranteed prediction intervals."
+    ]
+}

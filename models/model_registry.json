@@ -1,0 +1,5 @@
+{
+  "status": "not_trained",
+  "note": "No model registered until frequency, features, and validation are documented.",
+  "models": []
+}
